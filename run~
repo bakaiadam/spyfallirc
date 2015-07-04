@@ -1,0 +1,4 @@
+PATH=$PATH:/home/adam/netbeans-8.0.2/extide/ant/bin/
+ant
+java -cp "dist/SpyFallBot.jar"  spyfallbot.SpyFallBot
+
